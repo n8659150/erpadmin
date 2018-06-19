@@ -1,0 +1,11 @@
+.at-input-group__append,.at-input-group__prepend {
+    padding: 0;
+}
+.icon-search {
+    font-size: 15px;
+}
+.at-btn:disabled, .at-btn:disabled:active, .at-btn:disabled:hover {
+    border: none; 
+    background: inherit;
+    color:inherit;
+}
